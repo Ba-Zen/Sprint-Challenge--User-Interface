@@ -377,7 +377,7 @@ footer nav a {
 
 form {
     margin-top: 50px;
-    transition: all 4s ease-in-out;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
 }
 
 .form-control {
